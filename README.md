@@ -24,4 +24,4 @@ Processing multiple files and extracting thousands of keyword occurrences in **~
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/blackgamer_07/FastParse-CLI.git](https://github.com/blackgamer_07/FastParse-CLI.git)<img width="980" height="509" alt="7783eb0a-b6e9-4264-a3e8-8ff2d11faa81" src="https://github.com/user-attachments/assets/3590db46-e2b0-46f6-a187-5a835acbecba" />
+   git clone [git clone https://github.com/WaynerMoraes12/FastParse-CLI.git](git clone https://github.com/WaynerMoraes12/FastParse-CLI.git)<img width="980" height="509" alt="7783eb0a-b6e9-4264-a3e8-8ff2d11faa81" src="https://github.com/user-attachments/assets/3590db46-e2b0-46f6-a187-5a835acbecba" />
