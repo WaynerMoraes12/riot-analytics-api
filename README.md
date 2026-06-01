@@ -17,7 +17,8 @@ A high-performance command-line tool built in pure **ISO C++17** designed to sca
 
 Processing multiple files and extracting thousands of keyword occurrences in **~1.7 seconds**:
 
-[ARRASTE_E_SOLTE_SUA_IMAGEM_AQUI]
+<img width="980" height="509" alt="7783eb0a-b6e9-4264-a3e8-8ff2d11faa81" src="https://github.com/user-attachments/assets/5bfcab56-ea04-464f-b2d7-b3c4b8f0e15b" />
+
 
 ## 🛠️ Build Instructions
 
