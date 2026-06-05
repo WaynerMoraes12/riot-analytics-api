@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\FastParseCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{344C7965-5DAD-43A8-83C4-51664835BE4A}|FastParseCLI\\FastParseCLI.vcxproj|C:\\Projetos\\FastParseCLI\\FastParseCLI\\FileProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{344C7965-5DAD-43A8-83C4-51664835BE4A}|FastParseCLI\\FastParseCLI.vcxproj|solutionrelative:FastParseCLI\\FileProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344C7965-5DAD-43A8-83C4-51664835BE4A}|FastParseCLI\\FastParseCLI.vcxproj|C:\\Projetos\\FastParseCLI\\FastParseCLI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{344C7965-5DAD-43A8-83C4-51664835BE4A}|FastParseCLI\\FastParseCLI.vcxproj|solutionrelative:FastParseCLI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344C7965-5DAD-43A8-83C4-51664835BE4A}|FastParseCLI\\FastParseCLI.vcxproj|C:\\Projetos\\FastParseCLI\\FastParseCLI\\FileProcessor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{344C7965-5DAD-43A8-83C4-51664835BE4A}|FastParseCLI\\FastParseCLI.vcxproj|solutionrelative:FastParseCLI\\FileProcessor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Projetos\\FastParseCLI\\FastParseCLI\\main.cpp",
+              "RelativeDocumentMoniker": "FastParseCLI\\main.cpp",
+              "ToolTip": "C:\\Projetos\\FastParseCLI\\FastParseCLI\\main.cpp",
+              "RelativeToolTip": "FastParseCLI\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-01T16:48:48.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileProcessor.cpp",
+              "DocumentMoniker": "C:\\Projetos\\FastParseCLI\\FastParseCLI\\FileProcessor.cpp",
+              "RelativeDocumentMoniker": "FastParseCLI\\FileProcessor.cpp",
+              "ToolTip": "C:\\Projetos\\FastParseCLI\\FastParseCLI\\FileProcessor.cpp",
+              "RelativeToolTip": "FastParseCLI\\FileProcessor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-01T16:48:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileProcessor.hpp",
+              "DocumentMoniker": "C:\\Projetos\\FastParseCLI\\FastParseCLI\\FileProcessor.hpp",
+              "RelativeDocumentMoniker": "FastParseCLI\\FileProcessor.hpp",
+              "ToolTip": "C:\\Projetos\\FastParseCLI\\FastParseCLI\\FileProcessor.hpp",
+              "RelativeToolTip": "FastParseCLI\\FileProcessor.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-01T16:47:52.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

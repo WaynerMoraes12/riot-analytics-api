@@ -1,17 +1,3 @@
-# Arquivos gerados pelo Visual Studio
-.vs/
-*.user
-*.suo
-*.db
-*.opendb
-*.VC.db
-
-# Pastas de build
-x64/
-x86/
-Debug/
-Release/
-*.exe
-*.obj
-*.pdb
-*.ilk
+.env
+venv/
+__pycache__/

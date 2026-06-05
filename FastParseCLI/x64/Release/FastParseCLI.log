@@ -1,0 +1,7 @@
+﻿  FileProcessor.cpp
+  main.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1350 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  FastParseCLI.vcxproj -> C:\Projetos\FastParseCLI\x64\Release\FastParseCLI.exe
